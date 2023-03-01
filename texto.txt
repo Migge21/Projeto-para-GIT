@@ -1,0 +1,17 @@
+Iniciar:"git init"
+
+Renomear o master para main: "git branch -M "main"
+
+Mandar para um repositório: "git remote add origin https://github.com/Migge21/Projeto-para-GIT.git"(O link varia dependendo do repositório)
+
+Fazer um push(upar) do que você fez para o repositório: "git push -u origin main"
+
+Adicionar: Para adicionar os arquivos que você alterou é só
+colocar "git add 'nome_do_arquivo.xx'"
+
+Status: Para ver se a branch foi "git status"
+
+Alteração: Para upar o commit com as alterações
+"git commit -m "Nome da alteração"
+
+Upar: Para upar o commit "git push origin main"

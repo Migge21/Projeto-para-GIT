@@ -15,3 +15,9 @@ Alteração: Para upar o commit com as alterações
 "git commit -m "Nome da alteração"
 
 Upar: Para upar o commit "git push origin main"
+
+Nova branch:"git checkout -b "nome da branch"
+
+Push na nova branch:"git push origin nome_da_branch"
+
+Para voltar pra main:"git checkout main"
